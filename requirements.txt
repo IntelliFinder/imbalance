@@ -1,6 +1,7 @@
 numpy
-keras
-sklearn
+keras==2.2
+sklearn==0.19.2
 scipy
 matplotlib
 tensorflow-gpu
+imblearn==0.30
